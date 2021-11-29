@@ -36,3 +36,13 @@ body{
     font-size: 23px;
     margin: 15px;
 }
+.playbutton{
+    width: 160px;
+    font-size: 25px;
+    margin-bottom:100px;
+}
+canvas{
+    margin-top: 140px;
+    border: 5px solid white;
+    border-radius: 20px;
+}
